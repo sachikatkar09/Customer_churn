@@ -1,6 +1,6 @@
 # Customer_churn
 
-# Requirememts :
+# Requirements :
 1. Jupyter Notebook
 2. Python
 3. Pandas
